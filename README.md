@@ -71,8 +71,8 @@ Datasets are intentionally **not** committed (see [.gitignore](.gitignore)) — 
 ## Running the Notebooks
 
 ```bash
-git clone https://github.com/<your-username>/<this-repo>.git
-cd "AI in Astrophysics and Space Science"
+git clone https://github.com/GeorgeLazos/ai-in-astrophysics.git
+cd ai-in-astrophysics
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
