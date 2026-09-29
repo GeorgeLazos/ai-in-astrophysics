@@ -87,10 +87,10 @@ Then open any `WeekN/*.ipynb` and run all cells.
 
 ## Author
 
-**George Lazo** — MSc AI & Machine Learning
+**George Lazos** — MSc AI & Machine Learning
 
 ---
 
 ## License
 
-Educational use. Datasets belong to their respective providers (NASA, ESA, NOAA, etc.).
+Educational use. The assignment notebooks were provided by the QMUL module and the solutions are my own. Datasets belong to their respective providers (NASA, ESA, NOAA, etc.).
