@@ -71,8 +71,8 @@ Datasets are intentionally **not** committed (see [.gitignore](.gitignore)) — 
 ## Running the Notebooks
 
 ```bash
-git clone https://github.com/<your-username>/<this-repo>.git
-cd "AI in Astrophysics and Space Science"
+git clone https://github.com/GeorgeLazos/ai-in-astrophysics.git
+cd ai-in-astrophysics
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
@@ -87,10 +87,10 @@ Then open any `WeekN/*.ipynb` and run all cells.
 
 ## Author
 
-**George Lazo** — MSc AI & Machine Learning
+**George Lazos** — MSc AI & Machine Learning
 
 ---
 
 ## License
 
-Educational use. Datasets belong to their respective providers (NASA, ESA, NOAA, etc.).
+Educational use. The assignment notebooks were provided by the QMUL module and the solutions are my own. Datasets belong to their respective providers (NASA, ESA, NOAA, etc.).
