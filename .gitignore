@@ -42,3 +42,8 @@ Week7/data/**
 Week7/*.weights.h5
 
 Week8/cache_*.npz
+
+FinalProject/data/**
+!FinalProject/data/.gitkeep
+
+FinalProject/*.csv
